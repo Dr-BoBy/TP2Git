@@ -7,5 +7,5 @@ semble etre son roi, il a également été capturé.
 
 Vos options semblent limitées, vous pourriez soit boire la potion marquée "bois moi" attachée à la ceinture du garde impérial, soit ouvrir youtube sur votre téléphone pour regarder la nouvelle vidéo de what ze cut.
 
-[boire la potion](https://github.com/jmtrivial/tp-git/blob/master/ledos.md)
-[ouvrir youtube](https://github.com/jmtrivial/tp-git/blob/master/richa.md)
+[boire la potion](ledos.md)
+[ouvrir youtube](richa.md)
