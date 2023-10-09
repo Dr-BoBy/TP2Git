@@ -25,11 +25,11 @@ il dit
 01100101 01110011 00100000 01110001 01110101 01100101 01110011 01110100 01101001 01101111 01101110 00100000"
 
 Pour sauver votre cerveau, vous pouvez courir vers une pièce remplie de couleurs et de poneys.
-[My Little Poney](https://github.com/Dr-BoBy/TP2Git/mylit.md)
+[My Little Poney](mylit.md)
 
 Derrière Kanté, il y a la page 2 de Google.
-[la page 2 de Google](https://github.com/Dr-BoBy/TP2Git/lapag.md)
+[la page 2 de Google](lapag.md)
 
 Il y a aussi une perssone un toute aussi agacent sur votre droite
-[Juste, Emma Watson](https://github.com/Dr-BoBy/TP2Git/juste.md)
+[Juste, Emma Watson](juste.md)
 
