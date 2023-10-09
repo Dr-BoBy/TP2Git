@@ -9,6 +9,7 @@ Deux options se propose au héros :
 - Affronter le *vilain poisson gangster* comme [Donation](https://github.com/Dr-BoBy/TP2Git/blob/main/donat.md)
 - Se cacher dans le [dépot](https://github.com/Dr-BoBy/TP2Git/blob/main/ledép.md)
 
+![image](https://github.com/Dr-BoBy/TP2Git/assets/97364457/2ada3bf5-31bb-4588-9a82-1a72a464a4fa)
 ![Plankton](https://github.com/Dr-BoBy/TP2Git/assets/97364457/5bf8d76b-24a2-4e6c-bb1d-fdc3e30e1c98)
 ![image](https://github.com/Dr-BoBy/TP2Git/assets/97364457/1956620b-4935-4639-af44-b13cb57cb986)
 
