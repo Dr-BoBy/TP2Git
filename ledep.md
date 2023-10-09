@@ -12,5 +12,5 @@ code est parfait, les bugs n'existent pas, et les pauses café sont infinies. Qu
 Face à cette décision inattendue, vous réfléchissez à ce que vous voulez faire. La Salle du Dépôt GitHub devient soudain le point de départ de 
 votre aventure, avec deux chemins possibles : le retour dans le labyrinthe rempli de défis ou la quête d'un paradis de développeurs idyllique. 
 Le choix vous appartient.
-[La labyrinthe](https://github.com/Dr-BoBy/TP2Git/lafer.md)  
-[Le paradis](https://github.com/Dr-BoBy/TP2Git/gameOver.md)
+[La labyrinthe](lafer.md)  
+[Le paradis](gameOver.md)
