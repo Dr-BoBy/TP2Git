@@ -20,13 +20,13 @@ non -> [soyez banni](https://windows93.net)
 (note: si vous restez sur cette page jusqu'à la dernière question, vous avez réussi, sinon, game over)
 
 "bien, pour commencer, est ce que les commentaires sont optionnels dans du code?"
-[oui](https://windows93.net) [non](https://github.com/jmtrivial/tp-git/blob/master/lenfe.md)
+[oui](https://windows93.net) [non](lenfe.md)
 
 "est ce que web3 par google est une bonne chose?"   
-[oui](https://windows93.net] [jamais](https://github.com/jmtrivial/tp-git/blob/master/lenfe.md)
+[oui](https://windows93.net] [jamais](lenfe.md)
 
 "est il statistiquement prouvé que du code avec des commentaires injurieux est de meilleure qualité?"
-[oui](https://github.com/jmtrivial/tp-git/blob/master/lenfe.md) [non?](https://www.jwz.org/blog/2023/02/code-with-swearing-is-better-code/)
+[oui](lenfe.md) [non?](https://www.jwz.org/blog/2023/02/code-with-swearing-is-better-code/)
 
 "enfin, dernière question, résoud ce captcha, la case en haut à gauche est 0, celle en bas à droite est 15 "   
 ![nc](https://media.licdn.com/dms/image/D5622AQHOYslslecC0A/feedshare-shrink_2048_1536/0/1691131690014?e=1697673600&v=beta&t=uy25_rKm62MBwFyC4keIiOkXIIZtG3klkqcjucLXj6c)
