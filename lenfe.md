@@ -7,11 +7,11 @@ toutes les autres créatures s'enfuient après ces mots qui vous sont incompréh
 
 Cette déité ancienne s'addresse à vous:
 
-"je suis 𒀁𒀱𒀩, mais les mortels m'appelle linux torvalds, vos actions vous ont amenés ici, vous avez probablement cassé l'userspace ou inventé un nouveau calendrier comme rockchip, et vous serez jugé pour vos actions."
-"c'est vraiment arrivé?"
-"[oui](https://lkml.org/lkml/2012/12/23/75) et [oui](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f076ef44a44d02ed91543f820c14c2c7dff53716)"
-"la vache, mais je n'ai pas fait d'hérésies de ce calibre"
-"Dans ce cas je te laisserai partir après un petit quizz"
+"je suis 𒀁𒀱𒀩, mais les mortels m'appelle linux torvalds, vos actions vous ont amenés ici, vous avez probablement cassé l'userspace ou inventé un nouveau calendrier comme rockchip, et vous serez jugé pour vos actions."   
+"c'est vraiment arrivé?"   
+"[oui](https://lkml.org/lkml/2012/12/23/75) et [oui](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f076ef44a44d02ed91543f820c14c2c7dff53716)"   
+"la vache, mais je n'ai pas fait d'hérésies de ce calibre"   
+"Dans ce cas je te laisserai partir après un petit quizz"   
 
 réponse:
 ok -> restez sur cette page
