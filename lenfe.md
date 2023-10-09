@@ -22,7 +22,7 @@ non -> [soyez banni](https://windows93.net)
 "bien, pour commencer, est ce que les commentaires sont optionnels dans du code?"
 [oui](https://windows93.net) [non](https://github.com/jmtrivial/tp-git/blob/master/lenfe.md)
 
-"est ce que web3 par google est une bonne chose?"
+"est ce que web3 par google est une bonne chose?"   
 [oui](https://windows93.net] [jamais](https://github.com/jmtrivial/tp-git/blob/master/lenfe.md)
 
 "est il statistiquement prouvé que du code avec des commentaires injurieux est de meilleure qualité?"
