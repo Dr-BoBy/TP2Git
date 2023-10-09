@@ -1,0 +1,1 @@
+Tu As PeRdU, lOoSeR
