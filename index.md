@@ -1,5 +1,3 @@
-c Le DéParT
-
-Gandi a dis les chemins c'est les femmes c'est mieux quand t'en as 2 :
+L'entrée du labyrinthe, deux chemins s'ouvrent à vous, il vous est difficile d'imaginer ce vers quoi ils vou mèneront:   
 
 [La](juste.md) ou [La](lecha.md)
