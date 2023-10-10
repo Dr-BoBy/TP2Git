@@ -4,9 +4,9 @@ Vous levez les yeux et une vision apocalyptique s'annonce au loin, l'anneau est 
 Après avoir marché quelques minutes, vous retrouvez son véhicule, un warthog. Vous montez dedans et conduisez aussi vite que possible. Vous slalomez entre les débris et les tirs ennemis, et arrivez à une rampe.
 
 Si vous etes passé par le monde de skyrim pendant votre aventure, le spectre d'alduin vous attrape au vol et vous force à tomber dans les abysses en feu, vous tombez dans:   
-[l'enfer de terraria](https://github.com/jmtrivial/tp-git/blob/master/lenfe.md)   
+[l'enfer de terraria](lenfe.md)   
 sinon, vous arrivez à sauter de l'autre coté, et vous arrivez près d'une batisse solide:
-[la sainte église du bon bien](https://github.com/jmtrivial/tp-git/blob/master/lasai.md)
+[la sainte église du bon bien](lasai.md)
 
 vous avez toutefois l'option de sauter dans l'abime de votre propre chef (si jamais)
-[l'enfer de terraria](https://github.com/jmtrivial/tp-git/blob/master/lenfe.md)
+[l'enfer de terraria](lenfe.md)
