@@ -5,6 +5,8 @@ Sa voix est rauque, ancienne, elle vous demande:
 
 toutes les autres créatures s'enfuient après ces mots qui vous sont incompréhensibles
 
+![linus](https://i.insider.com/54b9ab56eab8ea140fe0458a?width=799)
+
 Cette déité ancienne s'addresse à vous:
 
 "je suis 𒀁𒀱𒀩, mais les mortels m'appelle linux torvalds, vos actions vous ont amenés ici, vous avez probablement cassé l'userspace ou inventé un nouveau calendrier comme rockchip, et vous serez jugé pour vos actions."   
@@ -32,4 +34,4 @@ non -> [soyez banni](https://windows93.net)
 ![nc](https://media.licdn.com/dms/image/D5622AQHOYslslecC0A/feedshare-shrink_2048_1536/0/1691131690014?e=1697673600&v=beta&t=uy25_rKm62MBwFyC4keIiOkXIIZtG3klkqcjucLXj6c)
 
 "ta sortie de cet enfer sera l'url :"  
-https://github.com/jmtrivial/tp-git/blob/master/[vos chiffrs de réponse ici].md
+[https://github.com/jmtrivial/tp-git/blob/master/](https://github.com/Dr-BoBy/TP2Git/edit/main/lenfe.md)https://github.com/Dr-BoBy/TP2Git/edit/main/[vos chiffrs de réponse ici].md
