@@ -25,7 +25,7 @@ non -> [soyez banni](https://windows93.net)
 [oui](https://windows93.net) [non](lenfe.md)
 
 "est ce que web3 par google est une bonne chose?"   
-[oui](https://windows93.net] [jamais](lenfe.md)
+[oui](https://windows93.net)  [jamais](lenfe.md)
 
 "est il statistiquement prouvé que du code avec des commentaires injurieux est de meilleure qualité?"
 [oui](lenfe.md) [non?](https://www.jwz.org/blog/2023/02/code-with-swearing-is-better-code/)
@@ -34,4 +34,4 @@ non -> [soyez banni](https://windows93.net)
 ![nc](https://media.licdn.com/dms/image/D5622AQHOYslslecC0A/feedshare-shrink_2048_1536/0/1691131690014?e=1697673600&v=beta&t=uy25_rKm62MBwFyC4keIiOkXIIZtG3klkqcjucLXj6c)
 
 "ta sortie de cet enfer sera l'url :"  
-[https://github.com/jmtrivial/tp-git/blob/master/](https://github.com/Dr-BoBy/TP2Git/edit/main/lenfe.md)https://github.com/Dr-BoBy/TP2Git/edit/main/[vos chiffrs de réponse ici].md
+https://github.com/Dr-BoBy/TP2Git/edit/main/[vos chiffrs de réponse ici].md
